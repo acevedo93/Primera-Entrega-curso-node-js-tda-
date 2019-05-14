@@ -1,0 +1,8 @@
+
+    nombre: david
+    cedula: 123456
+    curso:  nombre:  Programacion
+            Valor:   250,000
+            duracion:40 dias
+            id:      2
+    
