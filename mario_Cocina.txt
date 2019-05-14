@@ -1,0 +1,8 @@
+
+    nombre: mario
+    cedula: 95353646
+    curso:  nombre:  Cocina
+            Valor:   100,000
+            duracion:20 dias
+            id:      4
+    
